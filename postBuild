@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/t2jka_src/image-stimuli")' >> /home/jovyan/.Rprofile
